@@ -1,0 +1,25 @@
+
+.DS_Store           
+Thumbs.db           
+desktop.ini        
+
+.vscode/   
+.idea/              
+*.swp    
+
+*.class             
+*.exe  
+*.out
+
+
+/target/      
+/bin/               
+
+*.tmp               
+*.temp              
+
+!.gitignore      
+
+/build/       
+  /out/        
+  *.jar            
